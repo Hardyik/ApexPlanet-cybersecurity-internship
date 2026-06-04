@@ -45,7 +45,6 @@ Build strong fundamentals in cybersecurity and set up a professional ethical hac
 
 - Kali Linux Desktop
 - Metasploitable2 Login
-- Host-Only Network Configuration
 - IP Configuration (`ip addr`)
 - Successful Ping Test
 
