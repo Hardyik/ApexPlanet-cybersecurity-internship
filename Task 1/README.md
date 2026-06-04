@@ -48,7 +48,6 @@ Build strong fundamentals in cybersecurity and set up a professional ethical hac
 - Host-Only Network Configuration
 - IP Configuration (`ip addr`)
 - Successful Ping Test
-- Wireshark Packet Capture
 
 ---
 
