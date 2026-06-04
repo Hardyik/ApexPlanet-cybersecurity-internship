@@ -1,6 +1,6 @@
 # Task-1: Foundations of Cybersecurity & Lab Setup
 
-**Date:** 4 Jun 26
+**Date:** 4 Jun 26 <br>
 **Status:** Completed ✅
 
 ## 🎯 Objective
@@ -56,7 +56,6 @@ Build strong fundamentals in cybersecurity and set up a professional ethical hac
 ---
 
 ## 🎥 Video Walkthrough
-**Duration:** 5 Minutes  
 **Link:** _____________________
 
 ---
