@@ -1,7 +1,7 @@
 # ApexPlanet Cybersecurity & Ethical Hacking Internship
 
 **Intern Name:** Hardik Kotawdekar.  
-**Offer Letter ID:** APSPL2635998 
+**Offer Letter ID:** APSPL2635998.<br>
 **Program:** Cybersecurity & Ethical Hacking Internship  
 **Duration:** 60 Days
 

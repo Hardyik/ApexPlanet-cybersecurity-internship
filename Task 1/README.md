@@ -1,6 +1,6 @@
 # Task-1: Foundations of Cybersecurity & Lab Setup
 
-**Date:** 4 Jun 26
+**Date:** 4 Jun 26 <br>
 **Status:** Completed ✅
 
 ## 🎯 Objective
@@ -45,10 +45,8 @@ Build strong fundamentals in cybersecurity and set up a professional ethical hac
 
 - Kali Linux Desktop
 - Metasploitable2 Login
-- Host-Only Network Configuration
 - IP Configuration (`ip addr`)
 - Successful Ping Test
-- Wireshark Packet Capture
 
 ---
 
@@ -58,7 +56,6 @@ Build strong fundamentals in cybersecurity and set up a professional ethical hac
 ---
 
 ## 🎥 Video Walkthrough
-**Duration:** 5 Minutes  
 **Link:** _____________________
 
 ---
