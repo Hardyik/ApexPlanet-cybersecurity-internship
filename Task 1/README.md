@@ -56,7 +56,7 @@ Build strong fundamentals in cybersecurity and set up a professional ethical hac
 ---
 
 ## 🎥 Video Walkthrough
-**Link:** _____________________
+**Link:** <a href="https://www.linkedin.com/posts/hardik-kotawdekar-b22482329_cybersecurity-ethicalhacking-kalilinux-ugcPost-7468584163273596928-nRZs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLUW8oBxyNTJhfns_G_BcIM-rUE3eklagg">Clcik Here</a>
 
 ---
 
