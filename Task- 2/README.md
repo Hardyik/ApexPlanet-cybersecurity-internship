@@ -52,10 +52,9 @@ Learn reconnaissance, scanning, and network traffic analysis.
 ---
 
 ## 🎥 Demo Video
-**Duration:** ~5 minutes  
+**Duration:** ~7 minutes  
 **Content:** Nmap scans, findings, and analysis  
-**Link:**  _____
-
+**Link:** (https://www.linkedin.com/posts/hardik-kotawdekar-b22482329_cybersecurity-ethicalhacking-kalilinux-ugcPost-7468584163273596928-nRZs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLUW8oBxyNTJhfns_G_BcIM-rUE3eklagg)
 ---
 
 **Prepared by:** Hardik kotawdekar
