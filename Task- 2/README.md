@@ -9,9 +9,9 @@ Learn reconnaissance, scanning, and network traffic analysis.
 ---
 
 ## 🛠️ Lab Environment
-- **Attacker:** Kali Linux (192.168.56.102)
+- **Attacker:** Kali Linux 
 - **Target:** Metasploitable2
-- **Network:** Host-Only Adapter
+- **Network:** Host-Only Adapter / NAT
 
 ---
 
@@ -41,7 +41,6 @@ Learn reconnaissance, scanning, and network traffic analysis.
 - Ping Test
 - Nmap Ping Sweep
 - Full Nmap Scan Results
-- (Add more as you complete)
 
 ---
 
