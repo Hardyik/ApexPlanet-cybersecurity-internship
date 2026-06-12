@@ -1,7 +1,7 @@
 # Task-2: Network Security & Scanning
 
-**Date:** 10 Jun 2026  
-**Status:** In Progress / Completed ✅
+**Date:** 12 Jun 2026  
+**Status:** Completed ✅
 
 ## 🎯 Objective
 Learn reconnaissance, scanning, and network traffic analysis.
