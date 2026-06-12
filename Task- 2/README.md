@@ -28,8 +28,8 @@ Learn reconnaissance, scanning, and network traffic analysis.
   - `-O` (OS Detection)
 - Full scan report saved as `task2_full_scan.txt`
 
-### 3. Vulnerability Scanning (To Do)
-- Will setup OpenVAS / Greenbone
+### 3. Vulnerability Scanning
+- Setup OpenVAS / Greenbone
 
 ### 4. Packet Analysis
 - Will use Wireshark (FTP, HTTP capture)
