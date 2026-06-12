@@ -20,7 +20,7 @@
 | Task | Status     | Completion Date |
 |------|------------|-----------------|
 | Task-1 | Completed ✅ | 4 Jun 26 |
-| Task-2 | Not Started | - |
+| Task-2 | Completed ✅ | 12 Jun 26 |
 | Task-3 | Not Started | - |
 | Task-4 | Not Started | - |
 | Task-5 | Not Started | - |
