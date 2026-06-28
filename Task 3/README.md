@@ -51,7 +51,7 @@ All screenshots are available in the `Screenshots/` folder.
 
 ## 🎥 Demo Video
 **Duration:** ~8 minutes  
-**Link:** [Paste your LinkedIn Video Link Here]
+**Link:** ------
 
 ---
 
