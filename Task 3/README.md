@@ -51,7 +51,7 @@ All screenshots are available in the `Screenshots/` folder.
 
 ## 🎥 Demo Video
 **Duration:** ~8 minutes  
-**Link:** ------
+**Link:** [Watch](https://www.linkedin.com/posts/hardik-kotawdekar-b22482329_cybersecurity-ethicalhacking-websecurity-ugcPost-7479091916387540992-PBsn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLUW8oBxyNTJhfns_G_BcIM-rUE3eklagg)
 
 ---
 
