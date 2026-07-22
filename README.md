@@ -22,7 +22,7 @@
 | Task-1 | Completed ✅ | 4 Jun 26 |
 | Task-2 | Completed ✅ | 12 Jun 26 |
 | Task-3 | Completed ✅ | 28 Jun 26|
-| Task-4 | Not Started | 22 Jul 26 |
+| Task-4 | Completed ✅ | 22 Jul 26 |
 | Task-5 | Not Started | 28 Jul 26 |
 
 ---
