@@ -32,6 +32,6 @@ Available in `Screenshots/` folder.
 Full Penetration Testing Report attached.
 
 ## Video
-10-minute Demo Video Link: [Add LinkedIn Link]
+10-minute Demo Video Link: [Link](https://www.linkedin.com/posts/hardik-kotawdekar-b22482329_cybersecurity-ethicalhacking-metasploit-ugcPost-7485773138014715904-wljr/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7485773397436817410&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAAFLUW8oBxyNTJhfns_G_BcIM-rUE3eklagg)
 
 **Prepared for ApexPlanet Internship**
